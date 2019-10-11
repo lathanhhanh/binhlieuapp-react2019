@@ -4,7 +4,7 @@
 - Môn: Phát triển ứng dụng trên thiết bị di động đa nền tảng.
 - Tên đề tài : Bình Liêu APP
 # Video
-[![Watch the video](https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-9/72158792_2431635307093115_401241814796861440_n.jpg)](https://youtu.be/fJ7s7SsU3BQ)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 # Một số hình ảnh của ứng dụng
 ![alt tag](https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-9/72158792_2431635307093115_401241814796861440_n.jpg?_nc_cat=109&_nc_oc=AQnWQMZ74WOhtYimM5N2KsyAWEax2nj17BD2E31ZjC7h4XfMvZjuKQkm8mvcZ901SbUoGYSzzve2ysofZLx33JzR&_nc_ht=scontent.fhan5-1.fna&oh=7581155d0185493d7f141b6e8bdb1b4a&oe=5E353569)
 ![alt tag](https://scontent.fhan5-3.fna.fbcdn.net/v/t1.0-9/72893710_2431635267093119_1834882326035693568_n.jpg?_nc_cat=106&_nc_oc=AQmp1P-gYicvaQOwVcz8d7inblkKS-vKivq0rZubTZXXMsISPzoyZXg90tb8CYR6Pn4aCpxcx0042wi_kU1L3F8U&_nc_ht=scontent.fhan5-3.fna&oh=8a748c8b87fa3adf4ddaaf584feb894b&oe=5E3C2B60)
