@@ -2,7 +2,7 @@
 - Họ và tên: La Thanh Hạnh
 - Lớp: CNTT K14C
 - Môn: Phát triển ứng dụng trên thiết bị di động đa nền tảng.
-- Tên đề tài : Bình Liêu APP
+- Tên đề tài : Ứng dụng thông tin xe khách và taxi huyện Bình Liêu - Bình Liêu APP
 # Video
 [![Watch the video](https://img.youtube.com/vi/fJ7s7SsU3BQ/maxresdefault.jpg)](https://youtu.be/fJ7s7SsU3BQ)
 # Một số hình ảnh của ứng dụng
