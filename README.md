@@ -4,7 +4,7 @@
 - Môn: Phát triển ứng dụng trên thiết bị di động đa nền tảng.
 - Tên đề tài : Ứng dụng thông tin xe khách và taxi huyện Bình Liêu - Bình Liêu APP
 ## Link APK
-Download APK [ở đây](http://lathanhhanh.tk/binhlieuappv3.apk)
+Download APK [ở đây](http://lathanhhanh.tk/download/binhlieuappv3.apk)
 # Video
 [![Watch the video](https://img.youtube.com/vi/GOG7232LYlc/maxresdefault.jpg)](https://youtu.be/GOG7232LYlc)
 # Một số hình ảnh của ứng dụng
