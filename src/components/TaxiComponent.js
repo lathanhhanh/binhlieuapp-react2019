@@ -62,8 +62,8 @@ export default class TaxiComponent extends Component{
                                 source={require('./../icons/taxi.png')} 
                                 style={styles.flat_img} />
                                 <View style={styles.flat_view}>
-                                    <Text style={{fontSize:20, color:'#00CC00', fontWeight:'bold'}}>{item.tentaxi}</Text>
-                                    <Text style={{color:'#828282'}}>Điện thoại: {item.sodienthoai}</Text>
+                                    <Text style={{fontSize:20, fontWeight:'bold'}}>{item.tentaxi}</Text>
+                                    <Text>Điện thoại: {item.sodienthoai}</Text>
                                     
                                 </View>
                             </View>
@@ -83,14 +83,14 @@ const styles = StyleSheet.create({
         margin:5,
         flexDirection: 'row',
         height:80,
-        backgroundColor: 'white',
-        borderWidth:1,
-        borderColor:'#00CC00'
+        backgroundColor: '#f2f3f5',
+        borderRadius:10
+        
     },
     flat_img:{
         width: 56, 
         height: 56, 
-        tintColor: '#00CC00',
+        tintColor: '#2e7d32',
         marginTop:10,
         marginLeft:10
     },

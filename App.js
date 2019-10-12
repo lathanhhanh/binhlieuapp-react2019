@@ -17,7 +17,7 @@ let HomeStack = createStackNavigator({
       title: "THÔNG TIN XE KHÁCH BÌNH LIÊU",
       headerTintColor:'white',
       headerStyle:{
-        backgroundColor: '#00CC00'
+        backgroundColor: '#199c1f'
       },
       headerTitleStyle:{
         flex: 1, 
@@ -33,7 +33,7 @@ let HomeStack = createStackNavigator({
       title: "THÔNG TIN XE KHÁCH",
       headerTintColor:'white',
       headerStyle:{
-        backgroundColor: '#00CC00'
+        backgroundColor: '#329c37'
       },
       headerTitleStyle:{
         flex: 1, 
@@ -53,7 +53,7 @@ let TaxiStack = createStackNavigator({
       title: 'TAXI BÌNH LIÊU',
       headerTintColor:'white',
       headerStyle:{
-        backgroundColor: '#00CC00',
+        backgroundColor: '#329c37',
       },
       headerTitleStyle:{
         flex: 1, 
@@ -72,7 +72,7 @@ let InfoStack = createStackNavigator({
       title: 'THÔNG TIN APP',
       headerTintColor:'white',
       headerStyle:{
-        backgroundColor: '#00CC00',
+        backgroundColor: '#329c37',
       },
       headerTitleStyle:{
         flex: 1, 
@@ -130,7 +130,7 @@ let tabNavigatorConfig = {
     },
     showLabel: false,
     style: {
-      backgroundColor: '#00CC00',
+      backgroundColor: '#329c37',
       padding: -10
     }
   },
